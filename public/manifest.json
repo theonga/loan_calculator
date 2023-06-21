@@ -1,6 +1,6 @@
 {
-  "short_name": "Loan Calculator Zimbabwe",
-  "name": "Zimbabwe Loan Calculator. Calculate how much you can borrow given your salary and how much you will pay monthly given a loan term.",
+  "short_name": "Loan Calculator",
+  "name": "Loan Calculator Zimbabwe",
   "icons": [{
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
